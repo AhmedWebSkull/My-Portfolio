@@ -474,6 +474,11 @@ i {
         margin-top: 4rem;
     }
 
+    .services-container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    
     .portfolio-container {
         grid-template-columns: repeat(2, 1fr);
     }
